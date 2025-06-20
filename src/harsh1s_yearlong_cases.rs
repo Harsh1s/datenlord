@@ -7,6 +7,7 @@ pub struct YearlongCase {
 pub const CASES: &[YearlongCase] = &[
     YearlongCase { date: "2025-06-06", seed: 133816 },
     YearlongCase { date: "2025-06-14", seed: 320767 },
+    YearlongCase { date: "2025-06-20", seed: 587777 },
 ];
 
 pub const fn case_count() -> usize {
