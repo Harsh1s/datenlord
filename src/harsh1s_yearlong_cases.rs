@@ -34,6 +34,7 @@ pub const CASES: &[YearlongCase] = &[
     YearlongCase { date: "2025-10-24", seed: 684858 },
     YearlongCase { date: "2025-10-26", seed: 129973 },
     YearlongCase { date: "2025-10-30", seed: 405432 },
+    YearlongCase { date: "2025-11-13", seed: 410442 },
 ];
 
 pub const fn case_count() -> usize {
